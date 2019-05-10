@@ -2,7 +2,7 @@
 
 # Project Helix Team
 
-Sign-up and Join the Team
+Hosted on Content Services
  
 
 --- 
