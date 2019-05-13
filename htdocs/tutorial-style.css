@@ -186,12 +186,13 @@ header img {
 }
 
 header p {
-    font-weight: 700;
-    font-size: 1.1rem;
     margin: 0;
-    display: inline-block;
-    line-height: 1.5em;
 }
+
+header p:nth-child(1) {
+    height: 136px;
+}
+
 
 header p:nth-child(2) {
     display: block;
