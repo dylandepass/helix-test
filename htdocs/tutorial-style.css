@@ -133,7 +133,6 @@ pre {
     background-color: lightgrey;
     padding: 1em;
     border-radius: 1em;
-    overflow: hidden;
 }
 
 code {
@@ -171,7 +170,6 @@ table {
 
 header {
     z-index: 1;
-    overflow: hidden;
     width: 100vw;
     box-sizing: border-box;
 }
