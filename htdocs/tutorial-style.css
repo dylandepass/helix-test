@@ -38,6 +38,11 @@
     object-fit: cover;
 }
 
+.section.copy {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .copy, footer section {
     padding: 1rem 2rem;
 }
